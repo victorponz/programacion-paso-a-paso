@@ -2,7 +2,6 @@
 layout: default
 title: Acerca de
 ---
-# Puesta en producción segura
+# Programación
 
-Apuntes del módulo **Puesta en Producción Segura** del **Curso de especialización en ciberseguridad en entornos de las tecnologías de la**
-**información**
+Apuntes del módulo **Programación** del **Ciclo Formativo Desarrollo de Aplicaciones Web**
